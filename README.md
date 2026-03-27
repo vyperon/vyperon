@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:050D1A,80:0A84FF,100:00CFFF&height=250&section=header&text=EMPEROR%20ROMEO&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Systems%20Engineer%20%2F%2F%20Bot%20Architect%20%2F%2F%20Software%20Architect&descAlignY=62&descColor=00CFFF&animation=blinking&stroke=0A84FF&strokeWidth=3"/>
+<!-- CYLINDER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:050D1A,80:0A84FF,100:00CFFF&height=250&section=header&text=EMPEROR%20ROMEO&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=I%20build%20things%20that%20work%20in%20production.&descAlignY=68&descColor=00CFFF&stroke=0A84FF&strokeWidth=2"/>
 
-<!-- ANIMATED BADGES ROW -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=600&color=0A84FF&center=true&vCenter=true&width=800&lines=%3E+Systems+Engineer;%3E+Bot+Architect;%3E+Node.js+Developer;%3E+Full-Stack+Developer;%3E+Software+Architect;%3E+Open+Source+Developer;%3E+Johannesburg%2C+ZA+%F0%9F%87%BF%F0%9F%87%A6)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&pause=600&color=0A84FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;Bot+Architect;Node.js+Developer;Full-Stack+Developer;Software+Architect;Open+Source+Developer;Johannesburg%2C+ZA+%F0%9F%87%BF%F0%9F%87%A6)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,6 @@
 
 <div align="center">
 
-<!-- ASCII ART -->
 ```
 ██████╗ ██╗  ██╗██████╗ 
 ██╔══██╗╚██╗██╔╝██╔══██╗
@@ -28,20 +27,13 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=ROMEO+WALKER+KOFFEN;SYSTEMS+ENGINEER+%2F%2F+BOT+ARCHITECT)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-<!-- IDENTITY CARD -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:050D1A,100:000000&height=20&section=header&fontSize=1"/>
-
-# 🔵 EMPEROR ROMEO
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=ROMEO+WALKER+KOFFEN;SYSTEMS+ENGINEER+%2F%2F+BOT+ARCHITECT"/>
-
-<br/>
 
 | | |
 |:---|:---|
@@ -50,18 +42,18 @@
 | 🔵 **STACK** | `Node.js v22 // JavaScript // Python // React` |
 | 🗄️ **DATABASE** | `MongoDB // SQLite` |
 | 🌐 **LANGUAGES** | `French // English` |
-| 📧 **CONTACT** | `romeokoffen@gmail.com` |
+| 📧 **EMAIL** | `romeokoffen27@gmail.com` |
 | 🐙 **GITHUB** | `github.com/vyperon` |
-| 📘 **FACEBOOK** | `romeokoffen27` |
+| 💬 **MESSENGER** | `m.me/j/AbbfWWwVWeS5F3P1` |
 
 <br/>
 
 ![Systems Engineer](https://img.shields.io/badge/Systems-Engineer-000000?style=for-the-badge&labelColor=0A84FF&color=000000)
 ![Bot Architect](https://img.shields.io/badge/Bot-Architect-000000?style=for-the-badge&labelColor=00CFFF&color=000000)
-![Node.js Developer](https://img.shields.io/badge/Node.js-Developer-000000?style=for-the-badge&labelColor=0A84FF&color=000000)
+![Node.js](https://img.shields.io/badge/Node.js-Developer-000000?style=for-the-badge&labelColor=0A84FF&color=000000)
 ![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-000000?style=for-the-badge&labelColor=00CFFF&color=000000)
 ![Software Architect](https://img.shields.io/badge/Software-Architect-000000?style=for-the-badge&labelColor=0A84FF&color=000000)
-![Open Source](https://img.shields.io/badge/Open-Source-000000?style=for-the-badge&labelColor=00CFFF&color=000000)
+![Open Source](https://img.shields.io/badge/Open-Source-Developer-000000?style=for-the-badge&labelColor=00CFFF&color=000000)
 
 </div>
 
@@ -87,9 +79,9 @@
 
 <br/>
 
-![CommonJS](https://img.shields.io/badge/CommonJS-000000?style=for-the-badge&color=000000&labelColor=0A84FF&label=MODULE+SYSTEM)
-![Messenger](https://img.shields.io/badge/Messenger_Bot-000000?style=for-the-badge&logo=messenger&logoColor=0A84FF)
-![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge&labelColor=00CFFF&color=000000)
+![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge&labelColor=0A84FF&color=000000)
+![Messenger](https://img.shields.io/badge/Messenger-Bot-000000?style=for-the-badge&logo=messenger&logoColor=0A84FF)
+![CommonJS](https://img.shields.io/badge/CommonJS-Module_System-000000?style=for-the-badge&labelColor=00CFFF&color=000000)
 
 </div>
 
@@ -123,7 +115,7 @@
 
 <br/>
 
-> ### *`"If you wouldn't ship it to production, don't write it."`*
+> ### *`"I build things that work in production. If it's not ready to ship, it doesn't exist."`*
 > — **EMPEROR ROMEO**
 
 <br/>
@@ -135,16 +127,16 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-vyperon-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A84FF)](https://github.com/vyperon)
-[![Facebook](https://img.shields.io/badge/Facebook-romeokoffen27-000000?style=for-the-badge&logo=facebook&logoColor=FFFFFF&labelColor=0A84FF)](https://facebook.com/romeokoffen27)
-[![Email](https://img.shields.io/badge/Email-contact-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0A84FF)](mailto:romeokoffen@gmail.com)
+[![Messenger](https://img.shields.io/badge/Messenger-Join_Group-000000?style=for-the-badge&logo=messenger&logoColor=FFFFFF&labelColor=0A84FF)](https://m.me/j/AbbfWWwVWeS5F3P1/)
+[![Email](https://img.shields.io/badge/Email-romeokoffen27%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0A84FF)](mailto:romeokoffen27@gmail.com)
 
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:050D1A,80:0A84FF,100:00CFFF&height=150&section=footer&text=ROMEO%20WALKER%20KOFFEN%20%C2%A9%202026&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=blinking&stroke=00CFFF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:050D1A,80:0A84FF,100:00CFFF&height=150&section=footer&text=ROMEO%20WALKER%20KOFFEN%20%C2%A9%202026&fontSize=24&fontColor=FFFFFF&fontAlignY=65&stroke=00CFFF&strokeWidth=2"/>
 
 <br/>
 
-`🎧 🅔𝗠𝗣𝗘𝗥𝗢Ⓡ 🅡𝗢𝗠𝗘Ⓞ 🪶🧘🏻‍♂️`
+`🎧 🅡𝗠𝗣𝗘𝗥𝗢Ⓡ 🅡𝗢𝗠𝗘Ⓞ 🪶🧘🏻‍♂️`
 
 </div>
